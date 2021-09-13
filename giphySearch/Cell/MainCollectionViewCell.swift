@@ -42,4 +42,7 @@ class MainCollectionViewCell: UICollectionViewCell,
         conf(media: gphMedia)
     }
 
+    override func prepareForReuse() {
+        super.prepareForReuse()
+    }
 }
