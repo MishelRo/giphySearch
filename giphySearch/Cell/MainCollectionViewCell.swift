@@ -18,7 +18,6 @@ class MainCollectionViewCell: UICollectionViewCell,
     var mediaView: GPHMediaView!
 
     func didPressMoreByUser(_ user: String) {
-        print("hello")
     }
     
     private func conf(media: GPHMedia) {
@@ -44,5 +43,6 @@ class MainCollectionViewCell: UICollectionViewCell,
 
     override func prepareForReuse() {
         super.prepareForReuse()
+        
     }
 }

@@ -1,0 +1,11 @@
+strings:
+  inputs: giphySearch/Base.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: giphySearch/SwiftGen/Strings.swift
+xcassets:
+  inputs:
+    - giphySearch/Assets.xcassets
+  outputs:
+    - templateName: swift5
+      output: giphySearch/SwiftGen/Assets.swift

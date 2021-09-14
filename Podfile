@@ -10,7 +10,7 @@ pod 'Giphy'
 pod 'SDWebImage', '~> 5.0'
 pod 'SimpleImageViewer', '~> 1.1.1'
 pod 'SnapKit'
-
+pod 'SwiftGen'
 
   target 'giphySearchTests' do
     inherit! :search_paths

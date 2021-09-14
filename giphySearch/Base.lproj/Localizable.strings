@@ -1,0 +1,10 @@
+/* 
+  File.strings
+  giphySearch
+
+  Created by User on 14.09.2021.
+  
+*/
+"delete" = "Delete?";
+"delPicture" = "Delete picture?";
+"picture" = "Picture";
